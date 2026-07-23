@@ -19,7 +19,7 @@
     "jeffgreco13/filament-breezy": "^2.2",
     "laravel/framework": "^12.0",
     "laravel/sanctum": "^4.0",
-    "laravel/tinker": "^2.9",
+    "laravel/tinker": "^3.0",
     "livewire/livewire": "^3.3",
     "pboivin/filament-peek": "^2.2",
     "romanzipp/laravel-seo": "^2.9",
